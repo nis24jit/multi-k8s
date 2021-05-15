@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53d1fbc4-3072-4c5b-af8d-cdcce17983be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k8s/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k8s/server-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s/server-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-account.json.enc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,7 @@
       <recent name="$PROJECT_DIR$/worker" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/client" />
     </key>
   </component>
@@ -56,7 +55,7 @@
       <workItem from="1620993749727" duration="513000" />
       <workItem from="1620994577434" duration="4088000" />
       <workItem from="1621000643582" duration="5196000" />
-      <workItem from="1621057968053" duration="7575000" />
+      <workItem from="1621057968053" duration="8126000" />
     </task>
     <servers />
   </component>
